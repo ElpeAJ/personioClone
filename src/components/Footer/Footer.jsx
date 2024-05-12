@@ -28,84 +28,84 @@ export default function Footer(){
         <div className={style.group}>
           <h3>Company</h3>
           <p>
-            <a href="#">Personio Foundation</a>
+            <a href="https://facebook.com">Personio Foundation</a>
           </p>
           <p>
-            <a href="#">Press</a>
+            <a href="https://facebook.com">Press</a>
           </p>
           <p>
-            <a href="#">Personio Green</a>
+            <a href="https://facebook.com">Personio Green</a>
           </p>
           <p>
-            <a href="#">Diversity</a>
+            <a href="https://facebook.com">Diversity</a>
           </p>
           <p>
-            <a href="#">Sustainability</a>
+            <a href="https://facebook.com">Sustainability</a>
           </p>
         </div>
         <div className={style.group}>
           <h3>Getting Started</h3>
           <p>
-            <a href="#">FAQ</a>
+            <a href="https://facebook.com">FAQ</a>
           </p>
           <p>
-            <a href="#">Security and Trust</a>
+            <a href="https://facebook.com">Security and Trust</a>
           </p>
           <p>
-            <a href="#">Implementation Process</a>
+            <a href="https://facebook.com">Implementation Process</a>
           </p>
           <p>
-            <a href="#">Partner Program</a>
+            <a href="https://facebook.com">Partner Program</a>
           </p>
         </div>
         <div className={style.group}>
           <h3>Support</h3>
           <p>
-            <a href="#">Voyager Community</a>
+            <a href="https://facebook.com">Voyager Community</a>
           </p>
           <p>
-            <a href="#">Product Updates</a>
+            <a href="https://facebook.com">Product Updates</a>
           </p>
           <p>
-            <a href="#">Developer Hub</a>
+            <a href="https://facebook.com">Developer Hub</a>
           </p>
           <p>
-            <a href="#">Customer Advisory Board</a>
+            <a href="https://facebook.com">Customer Advisory Board</a>
           </p>
         </div>
         <div className={style.group}>
           <h3>Legal Links</h3>
           <p>
-            <a href="#">General Terms and Conditions</a>
+            <a href="https://facebook.com">General Terms and Conditions</a>
           </p>
           <p>
-            <a href="#">Privacy Policy</a>
+            <a href="https://facebook.com">Privacy Policy</a>
           </p>
           <p>
-            <a href="#">Cookie Settings</a>
+            <a href="https://facebook.com">Cookie Settings</a>
           </p>
           <p>
-            <a href="#">Legal Notice</a>
+            <a href="https://facebook.com">Legal Notice</a>
           </p>
           <p>
-            <a href="#">Site Map</a>
+            <a href="https://facebook.com">Site Map</a>
           </p>
         </div>
         <div className={style.group}>
           <h3>Not a Customer yet? Contact Sales</h3>
           <p>
-            <a href="#">
+            <a href="https://facebook.com">
               <span className="gb">GB</span> +44 20 3314 4377
             </a>
           </p>
           <p>
-            <a href="#">
+            <a href="https://facebook.com">
               <CiMail />
               <span>hello@personio.com</span>
             </a>
           </p>
           <p>
-            <a href="#">
+            <a href="https://facebook.com">
               <FaRegComment />
               <span>Contact Form</span>
             </a>
@@ -114,31 +114,31 @@ export default function Footer(){
         <div className={style.group}>
           <h3>Careers at Personio</h3>
           <p>
-            <a href="#">Careers</a>
+            <a href="https://facebook.com">Careers</a>
           </p>
         </div>
         <div className={style.group}>
           <h3>Connect</h3>
           <p>
-            <a href="#">
+            <a href="https://facebook.com">
               <BiLogoLinkedin />
               <span>LinkedIn</span>
             </a>
           </p>
           <p>
-            <a href="#">
+            <a href="https://facebook.com">
               <FaFacebookF />
               <span>Facebook</span>
             </a>
           </p>
           <p>
-            <a href="#">
+            <a href="https://facebook.com">
               <IoLogoInstagram />
               <span>Instagram</span>
             </a>
           </p>
           <p>
-            <a href="#">
+            <a href="https://facebook.com">
               <FaXTwitter />
               <span>X</span>
             </a>

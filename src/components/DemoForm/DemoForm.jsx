@@ -38,7 +38,7 @@ export default function DemoForm() {
         <Button type="submit" name="Book your free demo" />
         <p className={style.minimize}>
           By submitting this form I confirm that I have read the{" "}
-          <a href="https://">privacy policy</a> and agree to the processing of
+          <a href="https://facebook.com">privacy policy</a> and agree to the processing of
           my personal data by Personio for the stated purposes. In case of
           consent, I can revoke my consent to this processing at any time.
         </p>

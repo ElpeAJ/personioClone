@@ -17,7 +17,7 @@ export default function Newsletter() {
             name="Email address"
           />
         </div>
-        <Button name="Sign me up" linksto="" />
+        <Button name="Sign me up" linksto="https://facebook.com" />
       </form>
     </div>
   );

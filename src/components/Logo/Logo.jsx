@@ -6,7 +6,7 @@ export default function Logo() {
     <>
       <div>
         <p className={style.Logo}>
-          <a href="#">Personio</a>
+          <a href="https://facebook.com">Personio</a>
         </p>
       </div>
     </>

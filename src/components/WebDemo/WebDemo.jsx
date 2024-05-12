@@ -29,7 +29,7 @@ export default function WebDemo() {
         <div className={style.love}>
           <img
             src="https://images.ctfassets.net/p03bi75xct27/50XTcKri1A5rwXtwmZeRe6/34b16d0b151863916f3a6d80691be1ce/image.png?q=80&fm=webp&w=1536"
-            alt=""
+            alt="What they love"
           />
         </div>
       </div>
