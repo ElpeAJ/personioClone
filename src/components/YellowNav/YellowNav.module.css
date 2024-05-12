@@ -1,0 +1,35 @@
+header{
+  background-color: yellow;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+  padding: 15px 30px;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.borderright{
+  border-right: 2px solid #DEDDDC;
+  padding-right: 16px;
+}
+
+.group p {
+  font-size: 17px;
+}
+
+.group a {
+  color: black;
+  text-decoration: none;
+}
+.group a:hover {
+  text-decoration: underline;
+}
+
+.group span {
+  margin-left: 15px;
+  
+}

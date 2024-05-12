@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.Logo{
+  font-style: italic;
+  font-family: Cursive;
+  font-size: 40px;
+  
+}
+
+.Logo a{
+color: black;
+}

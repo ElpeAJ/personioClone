@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wholeform {
+  background-color: #f8f7f7;
+  padding: 50px 0px;
+  border-radius: 7px;
+  margin-bottom: 50px ;
+}
+
+.wholeform h1 {
+  text-align: center;
+}
+
+.wholeform h1 {
+  margin-bottom: 20px;
+}
+
+form {
+  justify-content: center;
+  display: flex;
+  gap: 30px;
+}

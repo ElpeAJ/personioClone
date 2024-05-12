@@ -1,0 +1,35 @@
+.webdemo{
+  border-radius: 9px;
+  display: flex;
+  justify-content: center;
+  background-color: #ECF9FE;
+  padding: 80px;
+ margin-bottom: 20px;
+}
+
+.personio {
+  width: 40vw;
+}
+
+.personio h1{
+font-size: 45px;
+margin-top: 20px;
+margin-bottom: 35px;
+}
+
+.personio p{
+  margin-bottom: 32px;
+  font-size: 19px;
+}
+
+.personio p span{
+  margin-left: 10px;
+}
+
+.love{
+  width: 25vw;
+}
+
+.love img{
+  width: 100%
+}

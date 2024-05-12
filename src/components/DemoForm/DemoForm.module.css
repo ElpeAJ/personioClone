@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.wholeform{
+  width: 28.5vw;
+  border: 1px solid #DEDDDC;
+  border-radius: 9px;
+  padding: 25px;
+  background-color: #fff;
+}
+
+.wholeform h2{
+  margin-bottom: 30px;
+}
+
+.form{
+  /* width: 29vw; */
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+}
+
+.name{
+  display: flex;
+  gap: 25px;
+}
+
+.number{
+  display: flex;
+  
+}
+
+.minimize{
+  font-size: 12px;
+}
+
+.minimize span{
+  margin-left: 3px;
+}
