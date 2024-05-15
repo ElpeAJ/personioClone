@@ -1,5 +1,6 @@
 import React from "react";
 import style from "./YellowNav.module.css";
+import { Link } from "react-router-dom";
 import { FaRegCommentDots } from "react-icons/fa";
 import { HiOutlineGlobeAlt } from "react-icons/hi2";
 import { RiInformation2Line } from "react-icons/ri";
@@ -10,18 +11,18 @@ export default function YellowNav() {
     <header>
       <div className={style.group}>
         <p>
-          <a href="/">
+          <Link to="/create">
             NEW: Create engaging, efficient and insightful employee surverys -
             find out how
-          </a>
+          </Link>
         </p>
       </div>
       <div className={`${style.group} ${style.flex}`}>
         <p className={style.borderright}>
-          <a href="/">
+          <Link to="/contact">
             <FaRegCommentDots />
             <span>Contact our Sales Team</span>
-          </a>
+          </Link>
         </p>
         <p className={style.borderright}>
           <a href="/">
@@ -30,16 +31,16 @@ export default function YellowNav() {
           </a>
         </p>
         <p className={style.borderright}>
-          <a href="/">
+          <Link to="/support">
             <RiInformation2Line />
             <span>Support</span>
-          </a>
+          </Link>
         </p>
         <p>
-          <a href="/">
+          <Link to="/login">
             <IoPersonOutline />
             <span>Login</span>
-          </a>
+          </Link>
         </p>
       </div>
     </header>

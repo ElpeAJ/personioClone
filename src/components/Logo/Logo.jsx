@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import style from "./Logo.module.css";
 
 export default function Logo() {
@@ -6,7 +7,7 @@ export default function Logo() {
     <>
       <div>
         <p className={style.Logo}>
-          <a href="https://facebook.com">Personio</a>
+          <Link to="/">Personio</Link>
         </p>
       </div>
     </>
