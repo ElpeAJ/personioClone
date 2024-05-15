@@ -10,7 +10,7 @@ export default function YellowNav() {
     <header>
       <div className={style.group}>
         <p>
-          <a href="https://facebook.com">
+          <a href="/">
             NEW: Create engaging, efficient and insightful employee surverys -
             find out how
           </a>
@@ -18,25 +18,25 @@ export default function YellowNav() {
       </div>
       <div className={`${style.group} ${style.flex}`}>
         <p className={style.borderright}>
-          <a href="https://facebook.com">
+          <a href="/">
             <FaRegCommentDots />
             <span>Contact our Sales Team</span>
           </a>
         </p>
         <p className={style.borderright}>
-          <a href="https://facebook.com">
+          <a href="/">
             <HiOutlineGlobeAlt />
             <span>EN</span>
           </a>
         </p>
         <p className={style.borderright}>
-          <a href="https://facebook.com">
+          <a href="/">
             <RiInformation2Line />
             <span>Support</span>
           </a>
         </p>
         <p>
-          <a href="https://facebook.com">
+          <a href="/">
             <IoPersonOutline />
             <span>Login</span>
           </a>
