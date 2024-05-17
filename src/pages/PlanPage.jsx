@@ -1,5 +1,5 @@
 import React from "react";
-
+import NavBar from "../components/NavBar/NavBar";
 import WebDemo from "../components/WebDemo/WebDemo";
 import Footer from "../components/Footer/Footer";
 import YellowNav from "../components/YellowNav/YellowNav";
@@ -7,7 +7,8 @@ import YellowNav from "../components/YellowNav/YellowNav";
 export default function PlanPage() {
   return (
     <div>
-      <YellowNav/>
+      <YellowNav />
+      <NavBar />
       <WebDemo />
       <Footer />
     </div>

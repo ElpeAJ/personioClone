@@ -7,6 +7,7 @@ import CreatePage from "./pages/CreatePage";
 import ContactPage from "./pages/ContactPage";
 import SupportPage from "./pages/SupportPage";
 import LoginPage from "./pages/LoginPage";
+import BookDemoPage from "./pages/BookDemoPage";
 import reportWebVitals from "./setup/reportWebVitals";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
   {
     path: "plan",
     element: <PlanPage />,
+  },
+  {
+    path: "bookdemo",
+    element: <BookDemoPage />,
   },
 ]);
 
